@@ -1,0 +1,16 @@
+{
+  "routes": {
+    "/": {},
+    "/about": {},
+    "/admin": {},
+    "/admin/contactenquiry": {},
+    "/admin/dashboard": {},
+    "/admin/ftp": {},
+    "/admin/login": {},
+    "/admin/projectmanagement": {},
+    "/admin/projecttype": {},
+    "/admin/user": {},
+    "/contact": {},
+    "/home": {}
+  }
+}
